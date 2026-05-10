@@ -1,0 +1,23 @@
+{
+  "name": "com.claudeai.unity-assistant",
+  "version": "1.0.0",
+  "displayName": "Claude Unity Assistant",
+  "description": "AI-powered error fixing and Unity/VRChat help built into the Unity Editor. Auto-fixes compile errors, writes C# and UdonSharp scripts, and answers questions in plain English.",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "author": {
+    "name": "Claude AI",
+    "url": "https://github.com/YOUR_USERNAME/claude-unity-assistant"
+  },
+  "keywords": [
+    "ai",
+    "assistant",
+    "error",
+    "fix",
+    "claude",
+    "vrchat",
+    "udonsharp",
+    "editor"
+  ],
+  "dependencies": {}
+}
