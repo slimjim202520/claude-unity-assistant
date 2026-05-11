@@ -43,6 +43,12 @@ namespace ClaudeAssistant
         private const int    MAX_API_MSGS  = 20;
         private const double BATCH_DELAY   = 1.5;
 
+        // ── Pro License ───────────────────────────────────────────
+        private const string PREF_LICENSE      = "ClaudeAssistant_LicenseKey";
+        private const string PREF_PRO_TIER     = "ClaudeAssistant_ProTier";
+        private const string LICENSE_API       = "https://claude-unity-assistant.vercel.app/api/validate";
+        private const int    FREE_HISTORY_LIMIT = 20;
+
         private const string SYSTEM_PROMPT =
             "You are Claude, a friendly Unity assistant built into the Unity Editor. " +
             "You help people learning Unity and getting stuck — especially with errors, scripts, and understanding how things work. " +
@@ -68,6 +74,11 @@ namespace ClaudeAssistant
         private string  _userInput   = "";
         private string  _status      = "";
         private Vector2 _scroll;
+        private string  _licenseKey      = "";
+        private bool    _isPro           = false;
+        private bool    _isValidating    = false;
+        private string  _licenseStatus   = "";
+        private bool    _showLicenseInput= false;
 
         private List<ChatMessage>  _messages      = new List<ChatMessage>();
         private List<string>       _pendingErrors = new List<string>();
@@ -112,6 +123,8 @@ namespace ClaudeAssistant
             _apiKey     = EditorPrefs.GetString(PREF_KEY,     "");
             _autoOpen   = EditorPrefs.GetBool(PREF_AUTOOPEN,  true);
             _autoErrors = EditorPrefs.GetBool(PREF_AUTOERR,   true);
+            _licenseKey = EditorPrefs.GetString(PREF_LICENSE, "");
+            _isPro      = EditorPrefs.GetBool(PREF_PRO_TIER,  false);
 
             LoadHistory();
 
