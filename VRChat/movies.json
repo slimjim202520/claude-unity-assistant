@@ -1,32 +1,222 @@
 [
-      {"title":"Night of the Living Dead (1968)","url":"https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_1080p_512kb.mp4","genre":"Horror"},
-      {"title":"Invasion of the Bee Girls (1973)","url":"https://archive.org/download/InvasionOfTheBeeGirls/InvasionOfTheBeeGirls_512kb.mp4","genre":"Sci-Fi Horror"},
-      {"title":"War of the Wildcats (1943)","url":"https://archive.org/download/WarOfTheWildcats-JohnWayne1943/JohnWayne-WarOfTheWildcats1943_512kb.mp4","genre":"Western"},
-      {"title":"Gulliver's Travels (1939)","url":"https://archive.org/download/GulliversTravels720p_652/GulliversTravels_512kb.mp4","genre":"Animation"},
-      {"title":"Death Rides a Horse (1967)","url":"https://archive.org/download/DeathRidesAHorse/DeathRidesAHorse1967_512kb.mp4","genre":"Western"},
-      {"title":"Little Shop of Horrors (1960)","url":"https://archive.org/download/TheLittleShopOfHorrors/The%20Little%20Shop%20of%20Horrors.mp4","genre":"Horror Comedy"},
-      {"title":"Nosferatu (1922)","url":"https://archive.org/download/NosferatuSilent/Nosferatu_512kb.mp4","genre":"Horror Classic"},
-      {"title":"Jesse James Meets Frankenstein (1966)","url":"https://archive.org/download/JesseJamesMeetsFrankensteinsDaughter1966/JesseJamesMeetsFrankensteinsDaughter1966_512kb.mp4","genre":"Western Horror"},
-      {"title":"The Most Dangerous Game (1932)","url":"https://archive.org/download/the.most.dangerous.game.1932.1080p/TheMostDangerousGame1932_512kb.mp4","genre":"Thriller"},
-      {"title":"Santa Fe Trail (1940)","url":"https://archive.org/download/Santa_Fe_Trail_movie/SantaFeTrail_512kb.mp4","genre":"Western"},
-      {"title":"Only the Valiant (1951)","url":"https://archive.org/download/OnlytheValaint/OnlytheValiant_512kb.mp4","genre":"Western"},
-      {"title":"Three Stooges Collection","url":"https://archive.org/download/3stooges/3stooges_512kb.mp4","genre":"Comedy"},
-      {"title":"Voyage to the Prehistoric Planet (1965)","url":"https://archive.org/download/VoyageToThePrehistoricPlanet/VoyageToThePrehistoricPlanet_512kb.mp4","genre":"Sci-Fi"},
-      {"title":"McLintock! (1963)","url":"https://archive.org/download/Mclintock.avi/Mclintock_512kb.mp4","genre":"Western Comedy"},
-      {"title":"We're in the Legion Now (1936)","url":"https://archive.org/download/WereInTheLegionNow/WereInTheLegionNow_512kb.mp4","genre":"Comedy"},
-      {"title":"Cop vs. Killer (2025)","url":"https://www.youtube.com/watch?v=BWe6bj4dqYc","genre":"Action Thriller"},
-      {"title":"Behave (2024)","url":"https://www.youtube.com/watch?v=iuImkv9hI4k","genre":"Slasher Horror"},
-      {"title":"Shadows Side (2025)","url":"https://www.youtube.com/watch?v=rRIvkcaKFVY","genre":"Horror"},
-      {"title":"Pursued (2025)","url":"https://www.youtube.com/watch?v=4wihbYopspQ","genre":"Thriller Horror"},
-      {"title":"Slaughtered (2024)","url":"https://www.youtube.com/watch?v=k5nbceszsi8","genre":"Horror Thriller"},
-      {"title":"Bring Me A Skin For Dancing In (2024)","url":"https://www.youtube.com/watch?v=NGD81cxbsKo","genre":"Horror"},
-      {"title":"Day Off (2024)","url":"https://www.youtube.com/watch?v=IKYvVeWt_n4","genre":"Action"},
-      {"title":"Reefer Madness (1936)","url":"https://archive.org/download/ReeferMadness_931/ReeferMadness_512kb.mp4","genre":"Drama"},
-      {"title":"Robot Monster (1953)","url":"https://archive.org/download/RobotMonster_931/RobotMonster_512kb.mp4","genre":"Sci-Fi"},
-      {"title":"Detour (1945)","url":"https://archive.org/download/Detour-WeirdnessBadMovie/Detour_512kb.mp4","genre":"Film Noir"},
-      {"title":"His Girl Friday (1940)","url":"https://archive.org/download/HisGirlFriday_931/HisGirlFriday_512kb.mp4","genre":"Comedy"},
-      {"title":"The General (1926)","url":"https://archive.org/download/TheGeneral_931/TheGeneral_512kb.mp4","genre":"Comedy Classic"},
-      {"title":"Metropolis (1927)","url":"https://archive.org/download/Metropolis_931/Metropolis_512kb.mp4","genre":"Sci-Fi Classic"},
-      {"title":"The Gold Rush (1925)","url":"https://archive.org/download/TheGoldRush_931/TheGoldRush_512kb.mp4","genre":"Comedy Classic"},
-      {"title":"Reefer Madness (1936)","url":"https://archive.org/download/ReeferMadness_931/ReeferMadness_512kb.mp4","genre":"Drama"}
+  {
+    "title": "Night of the Living Dead (1968)",
+    "url": "https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_1080p_512kb.mp4",
+    "genre": "Horror"
+  },
+  {
+    "title": "Invasion of the Bee Girls (1973)",
+    "url": "https://archive.org/download/InvasionOfTheBeeGirls/InvasionOfTheBeeGirls_512kb.mp4",
+    "genre": "Sci-Fi Horror"
+  },
+  {
+    "title": "Army of Darkness Directors Cut",
+    "url": "https://archive.org/download/army-of-darkness-directors-cut/army-of-darkness-directors-cut_512kb.mp4",
+    "genre": "Horror Comedy"
+  },
+  {
+    "title": "Frogs (1972)",
+    "url": "https://archive.org/download/frogs.-1972.1080p.-blu-ray.-h-264.-aac-rarbg/Frogs.1972.1080p.BluRay.H264.AAC-RARBG.ia.mp4",
+    "genre": "Horror"
+  },
+  {
+    "title": "Decay - Zombie Film (2012)",
+    "url": "https://archive.org/download/Decay2012-TheLhcZombieFilmfullFilm/Decay_2012_720p.mp4",
+    "genre": "Horror"
+  },
+  {
+    "title": "Nosferatu (1922)",
+    "url": "https://archive.org/download/NosferatuSilent/Nosferatu_512kb.mp4",
+    "genre": "Horror Classic"
+  },
+  {
+    "title": "Little Shop of Horrors (1960)",
+    "url": "https://archive.org/download/TheLittleShopOfHorrors/The%20Little%20Shop%20of%20Horrors.mp4",
+    "genre": "Horror Comedy"
+  },
+  {
+    "title": "Jesse James Meets Frankenstein (1966)",
+    "url": "https://archive.org/download/JesseJamesMeetsFrankensteinsDaughter1966/JesseJamesMeetsFrankensteinsDaughter1966_512kb.mp4",
+    "genre": "Western Horror"
+  },
+  {
+    "title": "The Most Dangerous Game (1932)",
+    "url": "https://archive.org/download/the.most.dangerous.game.1932.1080p/TheMostDangerousGame1932_512kb.mp4",
+    "genre": "Thriller"
+  },
+  {
+    "title": "War of the Wildcats (1943)",
+    "url": "https://archive.org/download/WarOfTheWildcats-JohnWayne1943/JohnWayne-WarOfTheWildcats1943_512kb.mp4",
+    "genre": "Western"
+  },
+  {
+    "title": "Against a Crooked Sky (1976)",
+    "url": "https://archive.org/download/AgainstACrookedSky/AgainstACrookedSky_512kb.mp4",
+    "genre": "Western"
+  },
+  {
+    "title": "Two Fisted Law (1932)",
+    "url": "https://archive.org/download/TwoFistedLawWithTimMccoyAndJohnWayne1932/TwoFistedLaw_512kb.mp4",
+    "genre": "Western"
+  },
+  {
+    "title": "The Virginian (1929)",
+    "url": "https://archive.org/download/TheVirginian/TheVirginian_512kb.mp4",
+    "genre": "Western"
+  },
+  {
+    "title": "Santa Fe Trail (1940)",
+    "url": "https://archive.org/download/Santa_Fe_Trail_movie/SantaFeTrail_512kb.mp4",
+    "genre": "Western"
+  },
+  {
+    "title": "Only the Valiant (1951)",
+    "url": "https://archive.org/download/OnlytheValaint/OnlytheValaint_512kb.mp4",
+    "genre": "Western"
+  },
+  {
+    "title": "McLintock (1963)",
+    "url": "https://archive.org/download/Mclintock.avi/Mclintock_512kb.mp4",
+    "genre": "Western Comedy"
+  },
+  {
+    "title": "Tex Montana Will Survive",
+    "url": "https://archive.org/download/texmontana/texmontana_512kb.mp4",
+    "genre": "Western Comedy"
+  },
+  {
+    "title": "Death Rides a Horse (1967)",
+    "url": "https://archive.org/download/DeathRidesAHorse/DeathRidesAHorse1967_512kb.mp4",
+    "genre": "Western"
+  },
+  {
+    "title": "Johnny OClock (1947)",
+    "url": "https://archive.org/download/JohnnyOClock1947_780/JohnnyOClock1947_512kb.mp4",
+    "genre": "Film Noir"
+  },
+  {
+    "title": "For You I Die (1947)",
+    "url": "https://archive.org/download/ForYouIDie/For.You.I.Die.1947.XviD_512kb.mp4",
+    "genre": "Film Noir"
+  },
+  {
+    "title": "Detour (1945)",
+    "url": "https://archive.org/download/Detour-WeirdnessBadMovie/Detour_512kb.mp4",
+    "genre": "Film Noir"
+  },
+  {
+    "title": "His Girl Friday (1940)",
+    "url": "https://archive.org/download/HisGirlFriday_931/HisGirlFriday_512kb.mp4",
+    "genre": "Comedy"
+  },
+  {
+    "title": "Three Stooges Collection",
+    "url": "https://archive.org/download/3stooges/3stooges_512kb.mp4",
+    "genre": "Comedy"
+  },
+  {
+    "title": "East Side Kids (1940)",
+    "url": "https://archive.org/download/01EastSideKids/01EastSideKids_512kb.mp4",
+    "genre": "Comedy"
+  },
+  {
+    "title": "Reefer Madness (1936)",
+    "url": "https://archive.org/download/ReeferMadness_931/ReeferMadness_512kb.mp4",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Gold Rush (1925)",
+    "url": "https://archive.org/download/TheGoldRush_931/TheGoldRush_512kb.mp4",
+    "genre": "Comedy Classic"
+  },
+  {
+    "title": "The General - Buster Keaton (1926)",
+    "url": "https://archive.org/download/TheGeneral_931/TheGeneral_512kb.mp4",
+    "genre": "Comedy Classic"
+  },
+  {
+    "title": "Gulliver Travels (1939)",
+    "url": "https://archive.org/download/GulliversTravels720p_652/GulliversTravels_512kb.mp4",
+    "genre": "Animation"
+  },
+  {
+    "title": "Heavy Traffic (1973)",
+    "url": "https://archive.org/download/heavy-traffic-1973/heavy-traffic-1973_512kb.mp4",
+    "genre": "Animation"
+  },
+  {
+    "title": "The Great Mouse Detective (1986)",
+    "url": "https://archive.org/download/great-mouse-detective-original/great-mouse-detective-original_512kb.mp4",
+    "genre": "Animation"
+  },
+  {
+    "title": "Metropolis (1927)",
+    "url": "https://archive.org/download/Metropolis_931/Metropolis_512kb.mp4",
+    "genre": "Sci-Fi Classic"
+  },
+  {
+    "title": "Voyage to Prehistoric Planet (1965)",
+    "url": "https://archive.org/download/VoyageToThePrehistoricPlanet/VoyageToThePrehistoricPlanet_512kb.mp4",
+    "genre": "Sci-Fi"
+  },
+  {
+    "title": "Robot Monster (1953)",
+    "url": "https://archive.org/download/RobotMonster_931/RobotMonster_512kb.mp4",
+    "genre": "Sci-Fi"
+  },
+  {
+    "title": "The Wild Party (1929)",
+    "url": "https://archive.org/download/the-wild-party-1929-colorized/the-wild-party-1929-colorized_512kb.mp4",
+    "genre": "Drama"
+  },
+  {
+    "title": "Romance of the Redwoods (1917)",
+    "url": "https://archive.org/download/RomanceOfTheRedwoods/RomanceOfTheRedwoods_512kb.mp4",
+    "genre": "Drama"
+  },
+  {
+    "title": "Carmen (1915)",
+    "url": "https://archive.org/download/CarmenCBD/Carmen.mp4",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Cheat (1915)",
+    "url": "https://archive.org/download/TheCheat/The%20Cheat.mp4",
+    "genre": "Drama"
+  },
+  {
+    "title": "Cop vs Killer (2025)",
+    "url": "https://www.youtube.com/watch?v=BWe6bj4dqYc",
+    "genre": "Action Thriller"
+  },
+  {
+    "title": "Behave (2024)",
+    "url": "https://www.youtube.com/watch?v=iuImkv9hI4k",
+    "genre": "Slasher Horror"
+  },
+  {
+    "title": "Shadows Side (2025)",
+    "url": "https://www.youtube.com/watch?v=rRIvkcaKFVY",
+    "genre": "Horror"
+  },
+  {
+    "title": "Pursued (2025)",
+    "url": "https://www.youtube.com/watch?v=4wihbYopspQ",
+    "genre": "Thriller Horror"
+  },
+  {
+    "title": "Slaughtered (2024)",
+    "url": "https://www.youtube.com/watch?v=k5nbceszsi8",
+    "genre": "Horror Thriller"
+  },
+  {
+    "title": "Day Off (2024)",
+    "url": "https://www.youtube.com/watch?v=IKYvVeWt_n4",
+    "genre": "Action"
+  },
+  {
+    "title": "Bring Me A Skin For Dancing In (2024)",
+    "url": "https://www.youtube.com/watch?v=NGD81cxbsKo",
+    "genre": "Horror"
+  }
 ]
